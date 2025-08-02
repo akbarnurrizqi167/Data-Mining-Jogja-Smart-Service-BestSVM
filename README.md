@@ -277,7 +277,7 @@ Project ini memberikan kontribusi signifikan dalam bentuk:
 ## 👥 **Tim Pengembang**
 
 - **Lead Developer**: Akbar Nur Rizqi
-- **Universitas**: [Nama Universitas]
+- **Universitas**: Universitas Alma Ata
 - **Kompetisi**: GEMASTIK XVII - Data Mining
 
 ## 📝 **Lisensi**
@@ -287,7 +287,7 @@ Project ini dikembangkan untuk keperluan kompetisi GEMASTIK XVII dan penelitian 
 ## 📞 **Kontak**
 
 - **GitHub**: [@akbarnurrizqi167](https://github.com/akbarnurrizqi167)
-- **Email**: [email]
+- **Email**: [akbarnurrizqi167@gmail.com](akbarnurrizqi167@gmail.com)
 
 ---
 
